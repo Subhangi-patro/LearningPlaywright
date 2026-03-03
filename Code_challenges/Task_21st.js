@@ -1,4 +1,4 @@
-let x = 70;
+let x = 80;
 if (x >= 90 && x <= 100) {
     console.log("Grade: A");
 } else if (x >= 80 && x < 90) {
