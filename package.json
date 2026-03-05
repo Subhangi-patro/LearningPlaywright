@@ -1,0 +1,25 @@
+{
+  "name": "learningplaywright",
+  "version": "1.0.0",
+  "description": "Minimal Playwright project with example chapters. Contains basic examples and setup verification scripts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Subhangi-patro/LearningPlaywright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Subhangi-patro/LearningPlaywright/issues"
+  },
+  "homepage": "https://github.com/Subhangi-patro/LearningPlaywright#readme",
+  "dependencies": {
+    "@playwright/cli": "^0.1.1",
+    "playwright": "^1.58.2"
+  }
+}
