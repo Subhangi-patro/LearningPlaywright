@@ -25,3 +25,4 @@ console.log(arr); //[1, 2, "a", 3, 4, 5]
 
 arr.splice(2,3,7,8); //remove 3 items from index 2 and add 7, 8
 console.log(arr); //[1, 2, 7, 8, 5]
+

@@ -4,3 +4,7 @@ console.log(status[1]); //closed
 
 console.log(status.at(-1)); //pending, at() method supports negative indices
 console.log(status.at(-2)); //closed
+
+//modify
+status[1] = "resolved";
+console.log(status); //["open", "resolved", "pending"]
